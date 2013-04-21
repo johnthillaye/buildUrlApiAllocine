@@ -30,7 +30,7 @@
 	
 	//EXAMPLE 2 - movie data
 	
-	$movieTokens[] = "code=37607";
+	$movieTokens[] = "code=61282";
 	
 	$url = buildUrlApiAllocine("movie", $movieTokens);
 	
